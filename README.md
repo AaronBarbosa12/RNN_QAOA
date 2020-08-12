@@ -18,5 +18,5 @@ The QAOA (https://arxiv.org/abs/1411.4028) is a variational quantum algorithm fo
 * How to use Tensorflow, Tensorflow Quantum, and perform quantum computing simulations with Google's Cirq 
 * How the QAOA works from a physics and a computational perspective
 * How metalearning works from a computational and mathematical perspective 
-* How to implement a metalearner from scratch in tensorflow
-* How to build custom models in tensorflow
+* How to implement a metalearner from scratch in Tensorflow
+* How to build custom models in Tensorflow
